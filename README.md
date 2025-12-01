@@ -21,11 +21,13 @@ I'm **Shuo-O**, a developer passionate about building cool things!
 
 <div align="center">
 
-<!-- Streak Stats (Working) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuo-O&theme=radical" alt="GitHub Streak" />
+| **GitHub Streak** | **Most Used Languages** |
+|:---:|:---:|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuo-O&theme=radical" height="160" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical" height="160" alt="Top Langs" /> |
 
-<!-- Top Langs (Trying a public mirror/alternative instance) -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical" alt="Top Langs" />
+<!-- Note: If Top Langs still fails to load, we can switch to Trophies: 
+<img src="https://github-profile-trophy.vercel.app/?username=Shuo-O&theme=radical&no-frame=true&margin-w=4" /> 
+-->
 
 </div>
 
