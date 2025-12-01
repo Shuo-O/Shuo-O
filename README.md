@@ -21,11 +21,11 @@ I'm **Shuo-O**, a developer passionate about building cool things!
 
 <div align="center">
 
-<!-- Streak Stats -->
+<!-- Streak Stats (Working) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuo-O&theme=radical" alt="GitHub Streak" />
 
-<!-- Top Languages (using a different service/endpoint if possible, or retrying) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical" alt="Top Langs" />
+<!-- Top Langs (Trying a public mirror/alternative instance) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical" alt="Top Langs" />
 
 </div>
 
