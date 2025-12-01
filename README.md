@@ -21,8 +21,11 @@ I'm **Shuo-O**, a developer passionate about building cool things!
 
 <div align="center">
 
-[![Shuo-O's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuo-O&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuo-O&theme=radical" alt="GitHub Streak" />
+
+<!-- Top Languages (using a different service/endpoint if possible, or retrying) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical" alt="Top Langs" />
 
 </div>
 
