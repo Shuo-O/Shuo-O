@@ -20,8 +20,10 @@ I'm **Shuo-O**, a developer passionate about building cool things!
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuo-O&show_icons=true&theme=radical" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical" height="180" alt="languages graph"  />
+
+[![Shuo-O's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuo-O&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
