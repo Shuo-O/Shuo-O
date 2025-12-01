@@ -15,17 +15,7 @@ I'm **Shuo-O**, a developer passionate about building cool things!
   <!-- Add more icons here from https://devicon.dev/ -->
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-| **GitHub Streak** | **GitHub Trophies** |
-|:---:|:---:|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuo-O&theme=radical" height="160" alt="GitHub Streak" /> | <img src="https://github-profile-trophy.vercel.app/?username=Shuo-O&theme=radical&no-frame=true&margin-w=4" height="160" alt="GitHub Trophies" /> |
-
-</div>
 
 ---
 
