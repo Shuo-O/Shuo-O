@@ -20,11 +20,7 @@
   <br/>
   <br/>
 
-  <!-- GitHub 数据统计卡片 (统一使用 tokyonight 主题) -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shuo-O&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Shuo-O's Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuo-O&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Shuo-O's Streak" />
-  </div>
+
 
   <br/>
   
