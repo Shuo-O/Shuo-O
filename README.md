@@ -22,12 +22,7 @@
 
 
 
-  <br/>
-  
-  <!-- 常用语言比例 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuo-O&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Langs" />
 
-  <br/>
   <br/>
 
   <!-- 贪吃蛇动画 (保留原本的) -->
