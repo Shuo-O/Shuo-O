@@ -14,7 +14,7 @@
   <!-- 技能图标：自动对齐，更美观 -->
   <!-- 对应你原本的：Python, C++, Go, React, Git -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,go,react,git,vscode,linux,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,go,rust,react,git,vscode,linux,docker&perline=10" />
   </a>
 
   <br/>
